@@ -79,18 +79,18 @@ frontpage_cards:
     button_label: ''
     button_link: ''
     rule_color: ''
-  - title: Lorem ipsum
-    content: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mollis
-      cursus est sed dapibus.
+  - title: LISGIS official site
+    content: >-
+      Navigate to The Liberia Institute of Statistics and Geo-Information
+      Services
     include: ''
     button_label: Read more
-    button_link: https://example.com
+    button_link: https://lisgis.gov.lr/
     rule_color: ''
-  - title: Nam vestibulum
-    content: |
-      Nam vestibulum, purus quis porttitor imperdiet, nisl sem mollis nisl, a
-      interdum risus enim vitae tortor. Donec feugiat accumsan rutrum.
+  - title: Coming soon
+    content: >-
+      We're pleased to inform you that we'll be adding a new link in this very
+      spot soon
     include: ''
     button_label: Read more
     button_link: https://example.com
